@@ -3,3 +3,5 @@ Sublime Text is great, but it's sidebar doesn't match the default (and beautiful
 ![Picture](https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/3441/sublime2.png)
 
 Simply, put "Default.sublime-theme" file in "[SUBLIME]/packages/Theme - Default directory".
+
+Windows : C:\Users\userName\AppData\Local\Sublime Text 3\Cache\Theme - Default
