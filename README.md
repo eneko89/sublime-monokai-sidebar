@@ -1,4 +1,8 @@
-### sublime-monokai-sidebar
+**This is not being actively developed nor supported.** If you are still interested in it, you can check the [Sublime Text 3 documentation for themes](https://www.sublimetext.com/docs/3/themes.html), or look for complete themes, there are some good ones out there.
+
+---
+
+# sublime-monokai-sidebar
 
 Sublime Text is great, but it's sidebar doesn't match the default (and beautiful) dark Monokai theme. Thanks to [this gist](https://gist.github.com/umpirsky/5842174) and after tweaking it a little (I corrected a glitch with the code collapse icon and made the higlight color lighter), I finally made it look great:
 
